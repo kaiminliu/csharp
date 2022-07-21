@@ -1,0 +1,12 @@
+https://blog.csdn.net/jason_ldh/article/details/124333479
+
+1.下载4.5安装包(下载很慢，使用迅雷下载会快一些)
+https://www.nuget.org/packages/microsoft.netframework.referenceassemblies.net45
+Install-Package Microsoft.NETFramework.ReferenceAssemblies.net45 -Version 1.0.2
+
+2.复制文件到系统目录
+文件后缀名先改为zip，再解压，将Microsoft.NETFramework.ReferenceAssemblies.net45.1.0.2.zip\build\.NETFramework\v4.5下的内容 复制到  C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5
+
+3.重启vs2022
+
+
