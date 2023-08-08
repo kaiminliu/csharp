@@ -1,0 +1,7 @@
+F:\learn\git\csharp\code\dotnet-basic\20230808-01-hellowword\bin\Debug\20230808-01-hellowword.exe.config
+F:\learn\git\csharp\code\dotnet-basic\20230808-01-hellowword\bin\Debug\20230808-01-hellowword.exe
+F:\learn\git\csharp\code\dotnet-basic\20230808-01-hellowword\bin\Debug\20230808-01-hellowword.pdb
+F:\learn\git\csharp\code\dotnet-basic\20230808-01-hellowword\obj\Debug\20230808-01-hellowword.csprojAssemblyReference.cache
+F:\learn\git\csharp\code\dotnet-basic\20230808-01-hellowword\obj\Debug\20230808-01-hellowword.csproj.CoreCompileInputs.cache
+F:\learn\git\csharp\code\dotnet-basic\20230808-01-hellowword\obj\Debug\20230808-01-hellowword.exe
+F:\learn\git\csharp\code\dotnet-basic\20230808-01-hellowword\obj\Debug\20230808-01-hellowword.pdb
